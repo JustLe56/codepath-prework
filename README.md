@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tipy*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tipy** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Justin Le**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -33,10 +33,11 @@ Here's a walkthrough of implemented user stories:
 ## Notes
 
 Describe any challenges encountered while building the app.
+Tutorial gifs were unclear and hard to follow. No ability to pause or rewind gifs made it hard to use. Recommend moving to mp4 files instead of purely gifs.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Justin Le]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
